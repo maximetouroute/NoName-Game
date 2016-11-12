@@ -11,7 +11,7 @@ This 3D game was made as part of a Computer Graphics course focused on low-level
 
 ![](https://github.com/maximetouroute/NoName-Game/blob/master/readme_imgs/startgame.jpg)
 
-## In game. 
+## In game
 You're the light pink ring. You move accros the platforms trying to catch those red/blue coins. Platforms shake and fall behind you. If you move too slowly, you'll be blocked on a platform surrounded by void and be forced to jump through the infinite tunnel to end your quest.
 
 ![](https://github.com/maximetouroute/NoName-Game/blob/master/readme_imgs/ingame_1.jpg)
