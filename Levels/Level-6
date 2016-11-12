@@ -1,0 +1,14 @@
+XXOOCOO
+CCCXXXO
+CXCOCOO
+CXXXCXC
+CXCXCXC
+XXOXCXC
+DOOOOOO
+
+-------------------------- How to write your level
+
+X: Dead Platform
+D: Start platform - by default, player is in the middle of the grid
+O: Alive Platform
+C: Platform with a coin
