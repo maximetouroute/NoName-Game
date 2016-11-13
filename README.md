@@ -53,6 +53,7 @@ X is void, C is platform with coin, O is empty platform, and D is your starting 
 
 
 # How to play
+
 First, you'll need an openGL4 compliant computer and OS. Then, execute the script in the root folder
 ```
 ./run.sh
@@ -65,7 +66,3 @@ First, you'll need an openGL4 compliant computer and OS. Then, execute the scrip
 * glew
 * a few libraries made by Anton Gerdelan http://antongerdelan.net/
 * the stb_image library to load TGA textures https://github.com/nothings/stb
-
-
-
-
